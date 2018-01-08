@@ -1,0 +1,2 @@
+Created Directory: C:\Users\hedin\git\SquareNPK-unpacker\SquareNPK-unpacker\picture_0
+Extracted - Offset: 0x00000000    Length: 0x00004220    File: picture_0_0000.VH
