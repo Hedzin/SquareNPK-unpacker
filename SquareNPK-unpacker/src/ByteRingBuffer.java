@@ -20,7 +20,7 @@ public class ByteRingBuffer {
 
 	public void clear() {
 		rBufWrPos = 0;
-		Arrays.fill(rBuf, (byte) 1);
+		Arrays.fill(rBuf, (byte) 0);
 		rBufWrPos = rBufSize - writeReadOffsetCorrection;
 
 	}
